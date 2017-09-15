@@ -95,7 +95,7 @@ namespace HighResolutionApps.VisualControls.TodayWeather
                     airQuality.Text = "优";
                     ico.Source = new BitmapImage(new Uri(@"D:\HRV_2.0\APPS\Files_Resource\ZZGA\sunny.png"));
 
-                    return; // 返回
+                    return; // 返回---------------
                 }
                 else
                 {
